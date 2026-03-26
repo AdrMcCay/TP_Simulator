@@ -155,8 +155,8 @@ Simulation parameters are stored in JSON format:
 ---
 
 ## Author
-Adrian McCay
-Queen's University Belfast
+Adrian McCay \
+Queen's University Belfast \
 Centre for Light-Matter Interactions
 
 Developed for simulation and analysis of Thomson Parabola diagnostics in high-intensity laser experiments.
