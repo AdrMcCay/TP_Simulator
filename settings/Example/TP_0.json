@@ -1,0 +1,17 @@
+{
+    "B": 0.6,
+    "V_plate": 10000.0,
+    "detector_offset_x": 20.0,
+    "detector_offset_z": -20.0,
+    "L_P": 300.0,
+    "L_B": 50.0,
+    "B_E": 25.0,
+    "L_E": 300.0,
+    "D_D": 300.0,
+    "Ep_min": 10.0,
+    "Ep_max": 80.0,
+    "Ec_min": 10.0,
+    "Ec_max": 30.0,
+    "detector_type": "MCP",
+    "detector_radius": 30.0
+}
